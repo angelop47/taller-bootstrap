@@ -47,6 +47,16 @@ a:hover{
     border-radius: 20px;
     padding: 20px;
 }
+/* tarifas */
+.tarifas{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+@media (max-width: 600px) {
+    .tarifas {
+        font-size: 10px;
+    }
+}
 /* reserva */
 .reserva{
     background-color: rgba(0, 0, 0, 0.479);
